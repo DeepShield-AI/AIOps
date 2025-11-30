@@ -1,0 +1,2 @@
+resources/论文.tar.gz filter=lfs diff=lfs merge=lfs -text
+resources/比赛.tar.gz filter=lfs diff=lfs merge=lfs -text
