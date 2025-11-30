@@ -209,7 +209,7 @@ __marimo__/
 .idea/
 *.txt
 results/
-/log_results/
+log_results/
 drain3_state.binary
 demo_results/
 log_dataset/
