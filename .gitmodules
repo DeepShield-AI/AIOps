@@ -1,0 +1,15 @@
+[submodule "sample"]
+	path = sample
+	url = https://www.aiops.cn/gitlab/aiops-live-benchmark/aiopschallengedata2025-sample.git
+[submodule "submission"]
+	path = submission
+	url = https://www.aiops.cn/gitlab/aiops-live-benchmark/aiopschallenge2025-submission.git
+[submodule "phaseone"]
+	path = phaseone
+	url = https://www.aiops.cn/gitlab/aiops-live-benchmark/phaseone.git
+[submodule "phasetwo"]
+	path = phasetwo
+	url = https://www.aiops.cn/gitlab/aiops-live-benchmark/phasetwo.git
+[submodule "dataset"]
+	path = dataset
+	url = https://www.aiops.cn/gitlab/aiops-live-benchmark/aiopschallenge2025.git
